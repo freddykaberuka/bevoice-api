@@ -1,0 +1,10 @@
+
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "bevoice_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
